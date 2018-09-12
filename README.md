@@ -1,3 +1,6 @@
+
+A silly project I made to play around with RxJava
+
 # TODO
 ------
 
